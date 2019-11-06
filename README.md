@@ -1,2 +1,3 @@
 # tiniX
 repo per tinix
+solo ad uso segnalazione bug richieste ....
