@@ -7,3 +7,4 @@ echo $output
 pendest=${output:0:3}
 
 echo
+#https://www.tecmint.com/progress-monitor-check-progress-of-linux-commands/
